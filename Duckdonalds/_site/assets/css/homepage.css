@@ -1,0 +1,36 @@
+/* Home Page */
+
+#imagenPrinc {
+
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+    overflow: auto; 
+}
+
+#titulo {
+
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 30px;
+    letter-spacing: 0.4px;
+    word-spacing: 0.2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: uppercase;
+    color: orange;
+    
+}
+
+iframe {
+
+    display: inline-block;
+}
+
+@media screen and (max-width: 500px){
+
+    
+}
